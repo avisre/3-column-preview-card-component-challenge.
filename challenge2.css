@@ -83,7 +83,7 @@ button:hover{
        background-color:hsl(179, 100%, 13%) ;
    }
 
-   @media(min-width:375px){
+   @media(max-width:375px){
        main{
         width: 300px;
         background-color: hsl(0, 0%, 95%);
