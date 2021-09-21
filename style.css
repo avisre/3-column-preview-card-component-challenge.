@@ -3,7 +3,7 @@ main {
     background-color: hsl(0, 0%, 95%);
     display: flex;
     flex-direction: row;
-    height:600px ;
+    height:900px ;
     padding-top: 90px;
     justify-content: center;
 }
